@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19",
+    "socket.io": "^4.5.1"
+  },
+  "script": {
+    "start": "node server.js"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "chat2",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
